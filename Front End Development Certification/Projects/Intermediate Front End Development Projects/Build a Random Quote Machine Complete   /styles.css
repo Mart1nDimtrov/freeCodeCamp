@@ -1,0 +1,55 @@
+body {
+  background-color: #a3d5d3;
+}
+
+#heading {
+  color:  #82b74b;
+  font-family: Arvo, sans-serif;
+}
+
+p {
+  color: salmon;
+  font-family: Nunito, sans-serif;
+}
+
+.well {
+  background: transparent! important;
+  text-align: center;
+  font-size: 20px;
+  border: transparent! important;
+}
+
+button {
+  width: 120px;
+  height: 40px;
+  color:  #c83349 !important;
+  font-family: Lobster, sans-serif !important;
+  font-size: 20px !important;
+  font-weight: bold !important;
+  background: #82b74b !important;
+  border: 2px solid #e06377 !important;
+}
+
+.text-container {
+  width: 400px;
+  margin: auto;
+  background: salmon !important;
+  border: 1px solid orange !important;
+}
+
+#quote {
+  font-family: Pacifico, sans-serif;
+}
+
+#author {
+  font-family: Dancing Script, sans-serif;
+}
+
+.twitter-container {
+  display: none;
+  margin: auto;
+  border: transparent !important;
+}
+
+
+
